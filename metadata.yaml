@@ -1,10 +1,16 @@
 _repo: Emma-und-Bertha-oder-die-Zwillingsschwestern-Eine-unterhaltende-Erzahlung-fur-die-Jugend_48253
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48253-h/images/cover.jpg
 creator:
   author:
     agent_name: Königsthal, Anna Elise Sophie von
     gutenberg_agent_id: '44701'
     url: http://www.gutenberg.org/2009/agents/44701
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48253#Emma-und-Bertha-oder-die-Zwillingsschwestern-Eine-unterhaltende-Erzahlung-fur-die-Jugend
 gutenberg_issued: '2015-02-14'
 gutenberg_type: Text
 identifiers:
